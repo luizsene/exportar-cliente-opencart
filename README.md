@@ -1,29 +1,27 @@
 # exportar-cliente-opencart
-
-
 =======================
-Módulo Exporta lista de cliente com Filtro
-**************************************
+ * Módulo Exporta lista de cliente com Filtro
 
 
-Informações:
+
+#### Informações:
 -----------------------
 
 - Ocmod para exportar lista de clientes com filtro
 
 
-Versão:
+#### Versão:
 -----------------------
 ```
 - 1.0
 ```
-Compatibilidade:
+#### Compatibilidade:
 -----------------------
 ```
 - OpenCart 2.0.0x
 ```
 
-Instruções:
+#### Instruções:
 -----------------------
 
 - Suba o arquivo em Extensões > Modificações
