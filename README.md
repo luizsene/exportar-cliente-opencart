@@ -24,7 +24,7 @@
 #### Instruções:
 -----------------------
 
-- Suba o arquivo em Extensões > Modificações
+- Suba o arquivo opencart.ocmod.zip em Extensões > Modificações
 
 
 
